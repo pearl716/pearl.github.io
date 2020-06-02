@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lusitana&display=swap');
+.header{
+	background-image: url("back.jpg");
+	text-align: center;
+	color: white;
+	padding: 80px 0px;
+	font-family: "Limelight";
+	text-transform: uppercase;
+}
+#slogan{
+	font-family: "Montserrat" ;
+}
+.start{
+	background-color: #eb447c;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: white;
+    border-style: none;
+}
+.imagetd{
+	text-align: center;
+}
+.contentpic{
+	margin-right: 30px;
+	margin-bottom: 25px;
+	width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#firstbar{
+	text-align: right;
+}
+#title{
+	font-family: "Lusitana";
+	font-size: 27px;
+	width: 360px;
+}
+.content{
+	font-family: "Montserrat";
+	padding: 20px;
+}
+.footer{
+	background-color: grey;
+	color: #eb447c;
+	padding:10px;
+	text-align: right;
+}
